@@ -1,5 +1,7 @@
 'use strict';
 
+alert('Правила: 1. Набрать 100 очков. 2. Если выпадает 1 - счет за текущий ход сбрасывается и переходит к другому игроку 3. Владик лох')
+
 const score0El = document.querySelector('#score--0');
 const score1El = document.getElementById('score--1');
 const current0El = document.getElementById('current--0');
